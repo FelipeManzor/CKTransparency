@@ -39,14 +39,14 @@ Below are some key visuals generated during the analysis:
 ### Process Model of Genetic Clones
 ![Process Tree for Genetic Clones](assets/picture5.png)
 
-> Process tree model for CryptoKitties that share identical genes with the original "LilBub".
+> Process tree model for CryptoKitties that share identical genes with the original "LilBub" (Asset Duplication Impact).
 
 ---
 
 ### Suspicious Trading Network
 ![Social Network Graph](assets/picture6.png)
 
-> Network graph showing frequent transactions among a small number of wallets for "Dioscuri Balinese", suggesting potential collusion.
+> Network graph showing frequent transactions among a small number of wallets, suggesting potential collusion.
 
 ---
 
@@ -74,8 +74,8 @@ pip install -r requirements.txt
 
 ## 🧠 Some Key Findings
 
-- **Duplicate genes**: Over 3,700 kitties had genetically identical copies — possibly violating implied scarcity rules.
-- **Off-market trades**: Some kitties, like "Dioscuri Balinese", were traded hundreds of times in non-transparent settings, often at inflated prices.
+- **Duplicate Logic**: Over 3,700 kitties had genetically identical copies using social networks possibly violating implied scarcity rules.
+- **Off-market trades**: Some kitties, like "Dioscuri Balinese", were traded hundreds of times in non-transparent settings, often at inflated prices trough related wallets.
 - **High-frequency transactions**: Kitties with extremely high trade counts (e.g., 1,684 transfers) suggest non-economic behavior.
 
 ---
