@@ -1,5 +1,7 @@
 # 🕵️‍♂️ Suspicious Activity Detection Using Blockchain Process Mining
 
+![LilBuB](assets/picture1.png)
+
 This repository contains the data, analysis code, and visualization assets used in the research project **"Suspicious Activity Detection Using Blockchain Process Mining"**, a case study based on the **CryptoKitties** decentralized application (DApp) on the Ethereum blockchain.
 
 ## 📜 Abstract
@@ -35,14 +37,14 @@ Public Github/
 Below are some key visuals generated during the analysis:
 
 ### Process Model of Genetic Clones
-![Process Tree for Genetic Clones](assets/picture5_v1.png)
+![Process Tree for Genetic Clones](assets/picture5.png)
 
 > Process tree model for CryptoKitties that share identical genes with the original "LilBub".
 
 ---
 
 ### Suspicious Trading Network
-![Social Network Graph](assets/picture6_v1.png)
+![Social Network Graph](assets/picture6.png)
 
 > Network graph showing frequent transactions among a small number of wallets for "Dioscuri Balinese", suggesting potential collusion.
 
